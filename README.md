@@ -7,7 +7,7 @@ DOMino is a lightweight DOM manipulation inspired by jQuery.
  ```
  <head>
   ...
-  <script type="text/javascript" src="./dist/dom_util.js"></script>
+  <script type="text/javascript" src="./lib/DOMino.js"></script>
 </head>
 ```
 
